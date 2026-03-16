@@ -1,0 +1,5 @@
+level 800 600
+player 1 0
+entity 0 0 545 187 40 40 30
+entity 1 0 691 533 40 40 30
+entity 2 1 68 128 50 200 0

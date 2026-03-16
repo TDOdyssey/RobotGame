@@ -1,0 +1,14 @@
+TODO:
+DONE - Scaling handles
+DONE - Arrow selection
+DONE - Scaling as inspector attributes
+DONE - Level and player config
+    DONE - Width, height, start location, start socket, etc.
+
+DONE - Saving and loading
+- Come up with some gameplay objects
+
+
+IDEAS:
+- Trajectory mapping?
+    - Would make it slightly easier to control, and fits the mythos/lore?
