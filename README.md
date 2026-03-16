@@ -18,7 +18,7 @@ Premise of the game prototype is that you control a drone with limited power. Ru
 
 ## Controls
 - ESC to quit
-- - F1 to switch between game and editor mode
+- F1 to switch between game and editor mode
 ### Gameplay
 - Arrow keys to boost
 - Jump key to double jump boost
