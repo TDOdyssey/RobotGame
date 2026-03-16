@@ -28,3 +28,6 @@ Premise of the game prototype is that you control a drone with limited power. Ru
 - Delete key to delete the current selected entity
 - Arrow keys to switch entity selection
 - 1, 2, 3 keys to switch between movement, scaling, and no handles
+- Left click to select objects
+- Right click to create a new entity
+- Hold control while dragging handles to snap to grid size
